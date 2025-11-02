@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "smitecraft",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openapi-template-db",
+      "database_id": "8b5ead81-3477-4e6c-8da0-ab9c793ed0d0"
+    }
+  ]
+}
